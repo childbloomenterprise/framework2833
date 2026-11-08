@@ -17,5 +17,6 @@ here claims consciousness.
 | `research/aeon_sprint5_hybrid_fixes_2026_10_27/` | Sprint 5: hybrid bug fixes (corrects sprints 3–4) |
 | `research/aeon_sprint6_mode_memory_2026_10_27/` | Sprint 6: mode memory on MMAC |
 | `research/aeon_sprint7_guarded_memory_2026_10_27/` | Sprint 7: guarded mode memory |
+| `research/aeon_control_baselines_2026_10_28/` | AEON vs standard control (PID, MMAC, true-model MPC, oracle) |
 
 Each sprint folder has a `README.md` with the protocol, results and how to reproduce.
